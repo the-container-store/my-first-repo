@@ -10,4 +10,4 @@
 Use git push --force-with-lease  when you do need to do a forced push but still ensure you don't overwrite other's work. 
 Git's push --force is strongly discouraged as it can destroy other commits already pushed to a shared repository.
 
-
+##Merging commits
